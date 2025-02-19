@@ -14,10 +14,6 @@ Treinar modelos de machine learning para a análise de imagens termográficas de
 
 ## 💻 Projetos Desenvolvidos: 
 
-- Grupo 1 
-  - Link do repositório: https://github.com/InteliProjects/2024-2A-T05-CC09-G01
-  - https://github.com/Inteli-College/2024-2A-T05-CC09-G01
-
 - Grupo 2 
   - Link do repositório: https://github.com/InteliProjects/2024-2A-T05-CC09-G02
   - https://github.com/Inteli-College/2024-2A-T05-CC09-G02
